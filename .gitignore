@@ -62,3 +62,5 @@ bin
 obj
 01-getting-started/Python/rest-client/.env
 01-getting-started/Python/sdk-client/.env
+02-cognitive-security/service-info.txt
+02-cognitive-security/Python/keyvault-client/.env
